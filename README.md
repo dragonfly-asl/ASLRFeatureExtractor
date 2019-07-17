@@ -31,6 +31,9 @@ nvidia-docker run \
 where ```LOCAL_DIR``` is the host directory containing a video file ```INPUT_VIDEO```,
 and ```OUTPUT_DIR``` is where the OpenPose analysis output is created.
 
+# DeepHand
+DeepHand model and the code to evaluate the model is taken from https://github.com/neccam/TF-DeepHand.
+
 
 # Feature Extraction
 
